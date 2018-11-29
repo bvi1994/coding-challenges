@@ -16,3 +16,8 @@ In the meantime, enjoy what this repo has to offer! Hopefully this will be usefu
 If have any questions, comments, or suggestions, I can be reached at brandvi1994@gmail.com. :)
 
 And if you're looking for a developer that's willing to work in the San Francisco Bay Area and you think I would be a good candidate for your role, by all means send me an email. ;) I'm always open to potential new opporunities. 
+
+# Other links to me
+
+[My Linkedin Profile](https://www.linkedin.com/in/bvi1994/)
+[Codepen.io](https://codepen.io/bvi1994/pens/public/#) - *Out of date*
