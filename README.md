@@ -20,4 +20,5 @@ And if you're looking for a developer that's willing to work in the San Francisc
 # Other links to me
 
 [My Linkedin Profile](https://www.linkedin.com/in/bvi1994/)
+
 [Codepen.io](https://codepen.io/bvi1994/pens/public/#) - *Out of date*
