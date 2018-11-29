@@ -1,4 +1,4 @@
-# Welcoming to my Coding Challenges Repo!
+# Welcome to my Coding Challenges Repo!
 
 If you are a potential employer, the purpose of this repo is to hopefully showcase my programming skills. Hopefully on a regular basis, I will update this repo with smaller projects that will showcase my programming skills. 
 
